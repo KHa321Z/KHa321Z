@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Hammad Here  👋
+
+I'm a free coder picking up various skills in different fields.
 
 <!--
 **KHa321Z/KHa321Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
